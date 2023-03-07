@@ -62,7 +62,7 @@ require (
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/felixge/httpsnoop v1.0.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
-	github.com/gagliardetto/binary v0.6.1 // indirect
+	github.com/gagliardetto/binary v0.7.1 // indirect
 	github.com/gagliardetto/treeout v0.1.4 // indirect
 	github.com/go-kit/kit v0.12.0 // indirect
 	github.com/go-kit/log v0.2.0 // indirect
@@ -151,7 +151,6 @@ require (
 )
 
 require (
-	github.com/cosmos/ibc-go/v2 v2.0.0
 	github.com/hdevalence/ed25519consensus v0.0.0-20220222234857-c00d1f31bab3 // indirect
 	github.com/strangelove-ventures/packet-forward-middleware/v2 v2.1.1
 )
